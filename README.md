@@ -2,7 +2,7 @@
 _Where CRT meets creativity. Welcome to the retro dev dojo._
 
 ## 🧠 Coding in Progress...
-![me](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVrNnF3eDM0cDBibTk1Z284ZTU0MDF1bDZtYm81N2c4ZGdsbXUzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
+![me](https://i.giphy.com/ENY5vJgJPEfG3Ym14H.webp)
 ---
 
 ## 💫 About Me:
