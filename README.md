@@ -1,7 +1,7 @@
 # 👾 90s Coding Vibe
 _Where CRT meets creativity. Welcome to the retro dev dojo._
 
-![Retro Banner](https://your-image-link/banner.svg)
+![Retro Banner]([https://your-image-link/banner.svg](https://tenor.com/pt/view/coding-typing-pc-laptop-power-gif-21599707))
 
 ---
 
