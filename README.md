@@ -1,10 +1,11 @@
 # 👾 90s Coding Vibe
 _Where CRT meets creativity. Welcome to the retro dev dojo._
 
+## 🧠 Coding in Progress...
+
 <p align="center">
-  <img src="https://media.tenor.com/_4YgA77ExHEAAAAC/coding-typing.gif" alt="Coding">
+  <img src="https://media.tenor.com/_4YgA77ExHEAAAAC/coding-typing.gif" alt="Coding power" />
 </p>
-xzxzcxzxcz
 
 ---
 
