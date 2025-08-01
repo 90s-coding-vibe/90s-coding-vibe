@@ -83,7 +83,7 @@
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 
-### 🧠 Monotoring
+### 🧠 Monitoring
 ![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=for-the-badge)
 ![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
 ![Kibana Badge](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge)
