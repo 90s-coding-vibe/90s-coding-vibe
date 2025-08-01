@@ -66,6 +66,10 @@
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Apache Solr](https://a11ybadges.com/badge?logo=apachesolr)
 
+### 🔌 Message Brokers
+![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge)
+![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge)
+
 ### ☁️ Cloud & Infra
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
@@ -83,11 +87,6 @@
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
 ![Metabase Badge](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff&style=for-the-badge)
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge)
-
-### 🔌 API & Docs
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 
 ### 🔎 CI/CD & DevOps
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
