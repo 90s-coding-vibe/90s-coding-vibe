@@ -3,7 +3,7 @@ _Where CRT meets creativity. Welcome to the retro dev dojo._
 
 ## 🧠 Coding in Progress...
 ![me](https://i.giphy.com/ENY5vJgJPEfG3Ym14H.webp)
-![me](https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif)
+![me](https://c.tenor.com/ITc1hNBSH_wAAAAd/tenor.gif)
 ---
 
 ## 💫 About Me:
