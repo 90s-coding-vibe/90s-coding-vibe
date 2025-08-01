@@ -55,6 +55,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)
+![Inertia Badge](https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=fff&style=for-the-badge)
 
 ### 📦 Package Managers
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
@@ -81,6 +82,13 @@
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+
+### 🧠 Monotoring
+![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=for-the-badge)
+![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
+![Kibana Badge](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
+![Metabase Badge](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff&style=for-the-badge)
 
 ### 🔌 API & Docs
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
@@ -110,13 +118,11 @@
 [![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
 
-### 🧠 Platforms
+### 💻 Extras
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
-
-### 🎵 Extras
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
 
 <!-- ─── 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎 ─────────────────────────────────────────── -->
 
