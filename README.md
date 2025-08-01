@@ -3,9 +3,9 @@ _Where CRT meets creativity. Welcome to the retro dev dojo._
 
 ## 🧠 Coding in Progress...
 
-<p align="center">
+[<p align="center">
   <img src="https://media.tenor.com/_4YgA77ExHEAAAAC/coding-typing.gif" alt="Coding power" />
-</p>
+</p>](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVrNnF3eDM0cDBibTk1Z284ZTU0MDF1bDZtYm81N2c4ZGdsbXUzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
 
 ---
 
