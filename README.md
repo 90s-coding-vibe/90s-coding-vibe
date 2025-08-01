@@ -1,6 +1,6 @@
 <!-- ─── 𝙍𝙀𝙏𝙍𝙊 𝘾𝙊𝘿𝙀 𝘿𝙊𝙅𝙊 ─────────────────────────────────────────── -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&height=45&lines=%F0%9F%91%BE+David+aka+90s+Coding+Vibe;Software+Engineer+%E2%80%A2+Educator+%E2%80%A2+CEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&height=45&lines=%F0%9F%91%BE+90s+Coding+Vibe;Software+Engineer+%E2%80%A2+Educator+%E2%80%A2" alt="Typing SVG" />
 </h1>
 
 <p align="center">
