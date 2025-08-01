@@ -1,5 +1,5 @@
 # 👾 90s Coding Vibe
-_Where CRT meets creativity. Welcome to the retro dev dojo._
+Welcome to the retro dev dojo._
 
 ## 🧠 Coding in Progress...
 ![me](https://i.giphy.com/ENY5vJgJPEfG3Ym14H.webp)
