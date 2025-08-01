@@ -124,16 +124,6 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 
-<!-- ─── 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎 ─────────────────────────────────────────── -->
-
-📊 **GitHub Analytics**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=90s-coding-vibe&theme=radical&hide_border=true&show_icons=true&custom_title=Code+%E2%9C%A8+Commits" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=90s-coding-vibe&theme=radical&border_radius=4" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=90s-coding-vibe&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <!-- ─── 𝙏𝙍𝙊𝙋𝙃𝙄𝙀𝙎 ─────────────────────────────────────────── -->
 
