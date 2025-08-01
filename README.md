@@ -6,10 +6,10 @@ Welcome to the retro dev dojo._
 ---
 
 ## 💫 About Me:
-⚡ Software Engineer
-⚡ Yes I'm addicted to programming, it's like playing Yu-Gi-Oh Duelist of the roses endlessly. I don't get tired. (No we're not thinkin' about deadlines here)
-⚡ I debug faster with synthwave playing or Dark Academia.
-⚡ I love to play chess, although I'm not that good at it.
+⚡ Software Engineer<br/>
+⚡ Yes I'm addicted to programming, it's like playing Yu-Gi-Oh Duelist of the roses endlessly. I don't get tired. (No we're not thinkin' about deadlines here)<br/>
+⚡ I debug faster with synthwave playing or Dark Academia.<br/>
+⚡ I love to play chess, although I'm not that good at it.<br/>
 ---
 
 ## 🌐 Socials:
